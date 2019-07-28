@@ -41,8 +41,8 @@ void loop() {
       delay(10);
     }
 
-    delay(100);
+    delay(90);
     analogWrite(i, 0);
-    delay(100);
+    delay(90);
   }
 }
